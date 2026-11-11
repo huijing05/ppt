@@ -1,3 +1,21 @@
+<!-- portrait-refinement -->
+# 最新：第 3、5 套竖版精修
+
+按新参考图重排，每套 **21 页**。封面仅公司名称与主图，内页按业务整理，封底集中列出公司联络方式、地址及营业时间。
+
+**[查看两套封面／封底布局](./refined-03-05/00_Cover_Back_Layout_Preview.pdf?raw=true)** · **[下载两套完整 PPT＋PDF](./refined-03-05/JC_Group_03_05_Refined.zip?raw=true)**
+
+| 版本 | PPT | PDF |
+| --- | --- | --- |
+| 3 · 白色杂志风（精修） | [下载](./refined-03-05/03_Editorial_Refined.pptx?raw=true) | [查看](./refined-03-05/03_Editorial_Refined.pdf?raw=true) |
+| 5 · 品牌红紫风（精修） | [下载](./refined-03-05/05_Signature_Refined.pptx?raw=true) | [查看](./refined-03-05/05_Signature_Refined.pdf?raw=true) |
+
+![第 5 套封底与封面](./refined-03-05/05_Signature_Refined_CoverSpread.jpg)
+
+[更多精修版资料](./refined-03-05)
+
+---
+
 # JC Group · 五套完整企业介绍设计
 
 每套 **23 页**，均含可编辑 PowerPoint 和 PDF 预览。资料按三大业务重新归类，统一标题、正文、图片与列表的对齐及间距。

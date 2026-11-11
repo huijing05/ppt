@@ -1,18 +1,20 @@
 <!-- portrait-refinement -->
-# 最新：第 3、5 套竖版精修
+# 最新：地区服务与品牌代理排版更新
 
-按新参考图重排，每套 **21 页**。封面仅公司名称与主图，内页按业务整理，封底集中列出公司联络方式、地址及营业时间。
+第 3、5 套继续采用 A4 竖版，各 **22 页**。新增独立地区服务页，与品牌代理页相邻；保留简洁公司名封面和联络方式封底。
 
-**[查看两套封面／封底布局](./refined-03-05/00_Cover_Back_Layout_Preview.pdf?raw=true)** · **[下载两套完整 PPT＋PDF](./refined-03-05/JC_Group_03_05_Refined.zip?raw=true)**
+**[先看地区服务／品牌代理双页预览](./refined-03-05/01_Regional_Brands_Preview.pdf?raw=true)** · **[下载最新两套 PPT＋PDF](./refined-03-05/JC_Group_03_05_Refined.zip?raw=true)**
 
-| 版本 | PPT | PDF |
+| 版本 | 可编辑 PPT | PDF |
 | --- | --- | --- |
-| 3 · 白色杂志风（精修） | [下载](./refined-03-05/03_Editorial_Refined.pptx?raw=true) | [查看](./refined-03-05/03_Editorial_Refined.pdf?raw=true) |
-| 5 · 品牌红紫风（精修） | [下载](./refined-03-05/05_Signature_Refined.pptx?raw=true) | [查看](./refined-03-05/05_Signature_Refined.pdf?raw=true) |
+| 3 · 白色杂志风 | [下载](./refined-03-05/03_Editorial_Refined.pptx?raw=true) | [查看](./refined-03-05/03_Editorial_Refined.pdf?raw=true) |
+| 5 · 品牌红紫风 | [下载](./refined-03-05/05_Signature_Refined.pptx?raw=true) | [查看](./refined-03-05/05_Signature_Refined.pdf?raw=true) |
 
-![第 5 套封底与封面](./refined-03-05/05_Signature_Refined_CoverSpread.jpg)
+![地区服务与品牌代理版式](./refined-03-05/05_Signature_Refined_RegionalBrandsSpread.jpg)
 
-[更多精修版资料](./refined-03-05)
+地区服务按原稿展示服务伙伴网络、港口支援、跨时区协调和工程师出勤。品牌按授权身份分组：JRC／Alphatron Marine 为分销商，Iridium LT-3100 为经销商。参考图中的其他企业和伙伴标志不纳入 JC Group 资料。
+
+[封面和联络封底预览](./refined-03-05/00_Cover_Back_Layout_Preview.pdf?raw=true) · [全部精修资料](./refined-03-05)
 
 ---
 

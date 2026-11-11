@@ -1,20 +1,18 @@
-<!-- portrait-refinement -->
-# 最新：地区服务与品牌代理排版更新
+<!-- landscape-selected -->
+# 最新：第 3、5 套 16:9 横屏版
 
-第 3、5 套继续采用 A4 竖版，各 **22 页**。新增独立地区服务页，与品牌代理页相邻；保留简洁公司名封面和联络方式封底。
+两套均为 **16:9 横屏，每套 22 页**。保留整理好的资料顺序、简洁封面、地区服务页、品牌代理页及联络封底，所有页面按横向空间重新编排。
 
-**[先看地区服务／品牌代理双页预览](./refined-03-05/01_Regional_Brands_Preview.pdf?raw=true)** · **[下载最新两套 PPT＋PDF](./refined-03-05/JC_Group_03_05_Refined.zip?raw=true)**
+**[先看横屏重点页预览](./landscape-03-05/00_Landscape_Preview.pdf?raw=true)** · **[下载两套横屏 PPT＋PDF](./landscape-03-05/JC_Group_03_05_Landscape.zip?raw=true)**
 
-| 版本 | 可编辑 PPT | PDF |
+| 版本 | 可编辑 PPT | 完整 PDF |
 | --- | --- | --- |
-| 3 · 白色杂志风 | [下载](./refined-03-05/03_Editorial_Refined.pptx?raw=true) | [查看](./refined-03-05/03_Editorial_Refined.pdf?raw=true) |
-| 5 · 品牌红紫风 | [下载](./refined-03-05/05_Signature_Refined.pptx?raw=true) | [查看](./refined-03-05/05_Signature_Refined.pdf?raw=true) |
+| 3 · 白色杂志风（横屏） | [下载](./landscape-03-05/03_Editorial_Landscape.pptx?raw=true) | [查看](./landscape-03-05/03_Editorial_Landscape.pdf?raw=true) |
+| 5 · 品牌红紫风（横屏） | [下载](./landscape-03-05/05_Signature_Landscape.pptx?raw=true) | [查看](./landscape-03-05/05_Signature_Landscape.pdf?raw=true) |
 
-![地区服务与品牌代理版式](./refined-03-05/05_Signature_Refined_RegionalBrandsSpread.jpg)
+![第5套横屏封面](./landscape-03-05/05_Signature_Landscape_Cover.jpg)
 
-地区服务按原稿展示服务伙伴网络、港口支援、跨时区协调和工程师出勤。品牌按授权身份分组：JRC／Alphatron Marine 为分销商，Iridium LT-3100 为经销商。参考图中的其他企业和伙伴标志不纳入 JC Group 资料。
-
-[封面和联络封底预览](./refined-03-05/00_Cover_Back_Layout_Preview.pdf?raw=true) · [全部精修资料](./refined-03-05)
+[全部横屏版文件](./landscape-03-05) · [此前竖版资料](./refined-03-05)
 
 ---
 

@@ -1,18 +1,20 @@
 <!-- landscape-selected -->
-# 最新：第 3、5 套 16:9 横屏版
+# 完整横屏版：第 3、5 套（各 22 页）
 
-两套均为 **16:9 横屏，每套 22 页**。保留整理好的资料顺序、简洁封面、地区服务页、品牌代理页及联络封底，所有页面按横向空间重新编排。
+下面均为 **完整文件**，两套均是 **16:9 横屏、每套 22 页**。
 
-**[先看横屏重点页预览](./landscape-03-05/00_Landscape_Preview.pdf?raw=true)** · **[下载两套横屏 PPT＋PDF](./landscape-03-05/JC_Group_03_05_Landscape.zip?raw=true)**
-
-| 版本 | 可编辑 PPT | 完整 PDF |
+| 完整版本 | 可编辑 PPT（22 页） | 完整 PDF（22 页） |
 | --- | --- | --- |
-| 3 · 白色杂志风（横屏） | [下载](./landscape-03-05/03_Editorial_Landscape.pptx?raw=true) | [查看](./landscape-03-05/03_Editorial_Landscape.pdf?raw=true) |
-| 5 · 品牌红紫风（横屏） | [下载](./landscape-03-05/05_Signature_Landscape.pptx?raw=true) | [查看](./landscape-03-05/05_Signature_Landscape.pdf?raw=true) |
+| 3 · 白色杂志风 | [下载完整 PPT](./landscape-03-05/03_Editorial_Landscape.pptx?raw=true) | [打开完整 PDF](./landscape-03-05/03_Editorial_Landscape.pdf) |
+| 5 · 品牌红紫风 | [下载完整 PPT](./landscape-03-05/05_Signature_Landscape.pptx?raw=true) | [打开完整 PDF](./landscape-03-05/05_Signature_Landscape.pdf) |
+
+**[下载两套完整文件 ZIP](./landscape-03-05/JC_Group_FULL_22pages_03_05.zip?raw=true)**：仅含两份完整 PPT、两份完整 PDF 和说明文件。
+
+资料涵盖集团概况、三家公司业务、设备服务、地区范围、品牌代理、全部服务与租赁方案，以及联络封底。
+
+此前 `00_Landscape_Preview.pdf` 仅有 8 页选页预览，不是完整企业介绍。请使用上表完整版。
 
 ![第5套横屏封面](./landscape-03-05/05_Signature_Landscape_Cover.jpg)
-
-[全部横屏版文件](./landscape-03-05) · [此前竖版资料](./refined-03-05)
 
 ---
 

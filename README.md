@@ -1,20 +1,24 @@
-<!-- landscape-selected -->
-# 完整横屏版：第 3、5 套（各 22 页）
+<!-- full-content-latest -->
+# 最新完整版：按新内容重建 · 31 页
 
-下面均为 **完整文件**，两套均是 **16:9 横屏、每套 22 页**。
+沿用第 3、5 套设计，均为 **16:9 横屏、每套 31 页**。完整保留新提供的 Vision、三条 Mission、三家公司的 About us 和 5／6／5 类服务，并展开原有服务详情。
 
-| 完整版本 | 可编辑 PPT（22 页） | 完整 PDF（22 页） |
+| 最新完整版 | 完整可编辑 PPT（31 页） | 完整 PDF（31 页） |
 | --- | --- | --- |
-| 3 · 白色杂志风 | [下载完整 PPT](./landscape-03-05/03_Editorial_Landscape.pptx?raw=true) | [打开完整 PDF](./landscape-03-05/03_Editorial_Landscape.pdf) |
-| 5 · 品牌红紫风 | [下载完整 PPT](./landscape-03-05/05_Signature_Landscape.pptx?raw=true) | [打开完整 PDF](./landscape-03-05/05_Signature_Landscape.pdf) |
+| 3 · 白色杂志风 | [下载完整 PPT](./full-content-update/03_Editorial_Full_Content.pptx?raw=true) | [打开全部31页](./full-content-update/03_Editorial_Full_Content.pdf) |
+| 5 · 品牌红紫风 | [下载完整 PPT](./full-content-update/05_Signature_Full_Content.pptx?raw=true) | [打开全部31页](./full-content-update/05_Signature_Full_Content.pdf) |
 
-**[下载两套完整文件 ZIP](./landscape-03-05/JC_Group_FULL_22pages_03_05.zip?raw=true)**：仅含两份完整 PPT、两份完整 PDF 和说明文件。
+**[下载两套31页完整版合集](./full-content-update/JC_Group_FULL_31pages_03_05.zip?raw=true)**：两份完整 PPT、两份完整 PDF 和说明文件，不含选页预览。
 
-资料涵盖集团概况、三家公司业务、设备服务、地区范围、品牌代理、全部服务与租赁方案，以及联络封底。
+本次更新：
 
-此前 `00_Landscape_Preview.pdf` 仅有 8 页选页预览，不是完整企业介绍。请使用上表完整版。
+- JC MARINE INTEGRATION、JC SUPPY、JC MARINE TECHNOLOGY 三家登记资料。
+- Technology About us 改为 JC Marine Technology Sdn Bhd，2026 年成立，其他内容及服务保留。
+- Marine 5 类、Technology 6 类、Supply 5 类服务逐项呈现；完整保留租赁条款、10项供应品及设备清单。
+- TEL +6011-8888 5899；邮箱 request@jcmarine.com.my；营业时间和 Miri／Port Klang／Singapore 三个完整地址。
+- 简洁封面、地区服务、品牌代理及联络封底保留。
 
-![第5套横屏封面](./landscape-03-05/05_Signature_Landscape_Cover.jpg)
+[31页内容目录与全部文件](./full-content-update)
 
 ---
 

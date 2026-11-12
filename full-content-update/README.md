@@ -9,6 +9,12 @@
 
 **[下载两套完整版合集](./JC_Group_FULL_31pages_03_05.zip?raw=true)**：两份 PPT、两份 PDF 和本说明，不含选页预览。
 
+## 品牌标识更正
+
+第 9 页按用户确认的第二张图，完整展示 **JRC＋Alphatron Marine＋Authorized distributor** 组合标识。Iridium LT-3100 单独保留经销商类别。
+
+![更正后的品牌页（仅图片）](./05_Signature_Full_Content_Approved_Brand_Page.jpg)
+
 ## 新封面
 
 第 3 套采用大字留白与横幅港口照片；第 5 套采用工程师维修实景满版、深紫渐隐和左下公司名。均只包含公司名称、原 Logo 和主视觉。每套仍为完整 31 页。

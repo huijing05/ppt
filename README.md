@@ -14,6 +14,8 @@
 
 ![最新封面对比（仅封面图片）](./full-content-update/New_Covers_Comparison.jpg)
 
+品牌页已按用户确认的第二张图更正：JRC 与 Alphatron Marine 使用完整的 **Authorized distributor** 组合标识。
+
 本次更新：
 
 - JC MARINE INTEGRATION、JC SUPPY、JC MARINE TECHNOLOGY 三家登记资料。

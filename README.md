@@ -10,6 +10,10 @@
 
 **[下载两套31页完整版合集](./full-content-update/JC_Group_FULL_31pages_03_05.zip?raw=true)**：两份完整 PPT、两份完整 PDF 和说明文件，不含选页预览。
 
+新版封面：第 3 套为大字杂志式排版，第 5 套为工程师实景满版。
+
+![最新封面对比（仅封面图片）](./full-content-update/New_Covers_Comparison.jpg)
+
 本次更新：
 
 - JC MARINE INTEGRATION、JC SUPPY、JC MARINE TECHNOLOGY 三家登记资料。

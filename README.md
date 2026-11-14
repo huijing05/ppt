@@ -1,3 +1,16 @@
+<!-- latest-cover-five -->
+# 新增：5 个封面设计方向
+
+本次按逐页修改要求制作 **5 个封面方案**，均为 16:9 横屏，使用新上传的透明 JC Logo。
+
+**[查看 5 版封面总览](./cover-concepts-5/00_Five_Covers_Overview.jpg)** · **[逐页查看封面 PDF（5 页）](./cover-concepts-5/JC_Group_5_Cover_Designs.pdf)** · **[下载可编辑封面 PPT](./cover-concepts-5/JC_Group_5_Cover_Designs.pptx?raw=true)** · **[透明 Logo](./cover-concepts-5/JC_Logo_Transparent.png?raw=true)**
+
+![5 版封面](./cover-concepts-5/00_Five_Covers_Overview.jpg)
+
+[全部高清封面、PPT 与透明 Logo](./cover-concepts-5)；此前完整 31 页文件仍保留在下方。
+
+---
+
 <!-- full-content-latest -->
 # 最新完整版：按新内容重建 · 31 页
 

@@ -10,7 +10,7 @@
 
 **[下载两套31页完整版合集](./full-content-update/JC_Group_FULL_31pages_03_05.zip?raw=true)**：两份完整 PPT、两份完整 PDF 和说明文件，不含选页预览。
 
-新版封面：第 3 套为大字杂志式排版，第 5 套为工程师实景满版。
+新版封面：两套均改为满版港口照片，中间向右渐淡；右侧整齐呈现公司登记、联络资料、营业时间及 Miri／Port Klang／Singapore 三处地址。本次只改封面，每套仍为完整 31 页。
 
 ![最新封面对比（仅封面图片）](./full-content-update/New_Covers_Comparison.jpg)
 
@@ -22,7 +22,7 @@
 - Technology About us 改为 JC Marine Technology Sdn Bhd，2026 年成立，其他内容及服务保留。
 - Marine 5 类、Technology 6 类、Supply 5 类服务逐项呈现；完整保留租赁条款、10项供应品及设备清单。
 - TEL +6011-8888 5899；邮箱 request@jcmarine.com.my；营业时间和 Miri／Port Klang／Singapore 三个完整地址。
-- 简洁封面、地区服务、品牌代理及联络封底保留。
+- 更新为港口全幅渐变封面；地区服务、已更正的品牌代理及联络封底保留。
 
 [31页内容目录与全部文件](./full-content-update)
 

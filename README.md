@@ -1,13 +1,19 @@
-<!-- latest-cover-five -->
-# 新增：5 个封面设计方向
+<!-- latest-direct-cover-review -->
+# 五个封面 · 直接看图
 
-本次按逐页修改要求制作 **5 个封面方案**，均为 16:9 横屏，使用新上传的透明 JC Logo。
+本次重新导出五张高清封面，并提供可逐页查看的 PDF 和可编辑 PPT，使用新上传的透明 JC Logo。
 
-**[查看 5 版封面总览](./cover-concepts-5/00_Five_Covers_Overview.jpg)** · **[逐页查看封面 PDF（5 页）](./cover-concepts-5/JC_Group_5_Cover_Designs.pdf)** · **[下载可编辑封面 PPT](./cover-concepts-5/JC_Group_5_Cover_Designs.pptx?raw=true)** · **[透明 Logo](./cover-concepts-5/JC_Logo_Transparent.png?raw=true)**
+**[直接查看全部五张封面](./cover-direct/README.md)** · **[逐页查看 PDF](./cover-direct/JC_Group_5_Covers.pdf)** · **[下载可编辑 PPT](./cover-direct/JC_Group_5_Covers.pptx?raw=true)**
 
-![5 版封面](./cover-concepts-5/00_Five_Covers_Overview.jpg)
+| 编号 | 设计 | 高清单张图片 |
+| --- | --- | --- |
+| 01 | 海洋极简 | [直接打开](./cover-direct/01_Atlantic_Minimal.jpg) |
+| 02 | 精密科技 | [直接打开](./cover-direct/02_Precision.jpg) |
+| 03 | 暮色深蓝 | [直接打开](./cover-direct/03_Dusk_Signature.jpg) |
+| 04 | 杂志排版 | [直接打开](./cover-direct/04_Editorial.jpg) |
+| 05 | 品牌紫色 | [直接打开](./cover-direct/05_Coastal_Brand.jpg) |
 
-[全部高清封面、PPT 与透明 Logo](./cover-concepts-5)；此前完整 31 页文件仍保留在下方。
+[透明 JC Logo](./cover-direct/JC_Logo_Transparent.png?raw=true)
 
 ---
 

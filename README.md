@@ -1,9 +1,9 @@
-<!-- direct-full-pdf -->
-# 完整 PDF · 直接打开或下载
+<!-- direct-gradient-fixed-pdf -->
+# 渐变修正版 PDF · 31 页完整版
 
-均为 **31 页、16:9 横屏**，采用已确认的第 1 款封面，无演讲者备注页。
+已将照片和渐变合成为不透明背景，采用新文件名交付，封面文字仍可搜索，无演讲者备注页。
 
-**[白色内页版 PDF](./pdf-direct/JC_Group_White_31pages.pdf?raw=true)** · **[紫色内页版 PDF](./pdf-direct/JC_Group_Purple_31pages.pdf?raw=true)**
+**[白色内页版 PDF · Gradient Fixed](./pdf-direct/JC_Group_White_31pages_Gradient_Fixed.pdf?raw=true)** · **[紫色内页版 PDF · Gradient Fixed](./pdf-direct/JC_Group_Purple_31pages_Gradient_Fixed.pdf?raw=true)**
 
 ---
 

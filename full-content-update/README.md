@@ -7,7 +7,7 @@
 | 3 · 白色杂志风 | [下载](./03_Editorial_Full_Content.pptx?raw=true) | [打开全部31页](./03_Editorial_Full_Content.pdf) |
 | 5 · 品牌红紫风 | [下载](./05_Signature_Full_Content.pptx?raw=true) | [打开全部31页](./05_Signature_Full_Content.pdf) |
 
-**[直接下载白色版 PDF](../pdf-direct/JC_Group_White_31pages.pdf?raw=true)** · **[直接下载紫色版 PDF](../pdf-direct/JC_Group_Purple_31pages.pdf?raw=true)**
+**[下载白色版 PDF · 渐变修正版](../pdf-direct/JC_Group_White_31pages_Gradient_Fixed.pdf?raw=true)** · **[下载紫色版 PDF · 渐变修正版](../pdf-direct/JC_Group_Purple_31pages_Gradient_Fixed.pdf?raw=true)**
 
 ## 品牌标识更正
 
@@ -17,7 +17,7 @@
 
 ## 已确定的封面：第 1 款「海洋极简」
 
-两套 31 页完整版均采用用户确认的第 1 款封面：完整船舶与深蓝海面、中间向右的浅色渐变、右侧整齐呈现公司登记与联络地址。使用新上传的透明 JC Logo。其余 30 页保持原样，已更正的 JRC／Alphatron Marine 品牌页保留。
+两套 31 页完整版均采用用户确认的第 1 款封面：完整船舶与深蓝海面、中间向右的浅色渐变、右侧整齐呈现公司登记与联络地址。使用新上传的透明 JC Logo。照片与渐变已合成为不透明背景，避免依赖独立透明层。其余 30 页保持原样，已更正的 JRC／Alphatron Marine 品牌页保留。
 
 ![已确定的封面](./Approved_Cover_01.jpg)
 

@@ -41,3 +41,5 @@
 - 03：[Edu Raw／Pexels](https://www.pexels.com/photo/large-cargo-ship-at-sea-during-sunset-38646187/)，Pexels 免费许可。
 - 04：[8 K／Pexels](https://www.pexels.com/photo/fully-loaded-cargo-ship-on-a-sea-12530455/)，Pexels 免费许可。
 - 05：[Enrique／Pexels](https://www.pexels.com/photo/ship-in-calm-sea-near-port-4041587/)，Pexels 免费许可。
+
+当前可编辑 PPT 已清除全部演讲者备注。

@@ -2,7 +2,7 @@
 
 按当前逐页修改流程，本次提供 **5 个封面设计，共 5 页，16:9 横屏**。所有封面均含最新公司登记、联络、营业时间和三个完整地址；不替换已有的 31 页完整公司介绍。
 
-**[查看 5 版总览图](./00_Five_Covers_Overview.jpg)** · **[逐页放大查看 PDF（5 页封面）](./JC_Group_5_Cover_Designs.pdf)** · **[下载可编辑封面 PPT（5 页）](./JC_Group_5_Cover_Designs.pptx?raw=true)** · **[下载整个封面方案包](./JC_Group_5_Cover_Concepts.zip?raw=true)**
+**[查看 5 版总览图](./00_Five_Covers_Overview.jpg)** · **[逐页放大查看 PDF（5 页封面）](./JC_Group_5_Cover_Designs.pdf)** · **[下载可编辑封面 PPT（5 页）](./JC_Group_5_Cover_Designs.pptx?raw=true)**
 
 ![5 个封面设计](./00_Five_Covers_Overview.jpg)
 
@@ -13,6 +13,8 @@
 | 03 | 暮色深蓝：暮色实景，深蓝与香槟色，双栏联络及地区资料。 | [打开高清图](./03_Dusk_Signature.jpg) |
 | 04 | 杂志排版：甲板俯拍，象牙白，两行大字与并列公司登记。 | [打开高清图](./04_Editorial.jpg) |
 | 05 | 品牌紫色：船首与平静港湾，品牌紫色，地址与联络分列。 | [打开高清图](./05_Coastal_Brand.jpg) |
+
+当前可编辑 PPT 已清除全部演讲者备注。
 
 ## 透明 JC Logo
 

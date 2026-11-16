@@ -1,7 +1,7 @@
 <!-- approved-cover01 -->
 # 封面已确定：01 · 海洋极简
 
-采用已确认的第 1 款封面，使用透明 JC Logo，已应用到两套 31 页完整公司介绍。
+采用已确认的第 1 款封面，使用透明 JC Logo，已应用到两套 31 页完整公司介绍。当前 PPT 已清除全部演讲者备注。
 
 [查看已确定的封面](./full-content-update/Approved_Cover_01.jpg) · [此前的五个封面方案](./cover-direct/README.md)
 

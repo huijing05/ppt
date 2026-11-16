@@ -5,4 +5,4 @@
 - **[白色内页版 PDF](./JC_Group_White_31pages.pdf?raw=true)**
 - **[紫色内页版 PDF](./JC_Group_Purple_31pages.pdf?raw=true)**
 
-资料内容、品牌标识及页面画面与已确认的完整版一致。
+第 9 页的 JRC 与 Alphatron Marine 已统一为相同显示宽度，保留原比例与 Authorized distributor 字样，其余 30 页保持原样。

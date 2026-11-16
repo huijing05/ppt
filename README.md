@@ -30,7 +30,7 @@
 
 ![已确定的第 1 款封面](./full-content-update/Approved_Cover_01.jpg)
 
-品牌页已按用户确认的第二张图更正：JRC 与 Alphatron Marine 使用完整的 **Authorized distributor** 组合标识。
+品牌页采用用户确认的正确标识，JRC 与 Alphatron Marine 已统一显示宽度并保持原比例，保留 **Authorized distributor** 字样。
 
 本次更新：
 

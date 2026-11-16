@@ -11,7 +11,7 @@
 
 ## 品牌标识更正
 
-第 9 页按用户确认的第二张图，完整展示 **JRC＋Alphatron Marine＋Authorized distributor** 组合标识。Iridium LT-3100 单独保留经销商类别。
+第 9 页使用用户确认的正确品牌图，**JRC 与 Alphatron Marine 统一为相同显示宽度，并保持原比例、居中对齐**。保留完整的 **Authorized distributor** 字样；Iridium LT-3100 单独保留经销商类别。
 
 ![更正后的品牌页（仅图片）](./05_Signature_Full_Content_Approved_Brand_Page.jpg)
 

@@ -1,3 +1,12 @@
+<!-- direct-full-pdf -->
+# 完整 PDF · 直接打开或下载
+
+均为 **31 页、16:9 横屏**，采用已确认的第 1 款封面，无演讲者备注页。
+
+**[白色内页版 PDF](./pdf-direct/JC_Group_White_31pages.pdf?raw=true)** · **[紫色内页版 PDF](./pdf-direct/JC_Group_Purple_31pages.pdf?raw=true)**
+
+---
+
 <!-- approved-cover01 -->
 # 封面已确定：01 · 海洋极简
 

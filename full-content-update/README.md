@@ -7,6 +7,8 @@
 | 3 · 白色杂志风 | [下载](./03_Editorial_Full_Content.pptx?raw=true) | [打开全部31页](./03_Editorial_Full_Content.pdf) |
 | 5 · 品牌红紫风 | [下载](./05_Signature_Full_Content.pptx?raw=true) | [打开全部31页](./05_Signature_Full_Content.pdf) |
 
+**[直接下载白色版 PDF](../pdf-direct/JC_Group_White_31pages.pdf?raw=true)** · **[直接下载紫色版 PDF](../pdf-direct/JC_Group_Purple_31pages.pdf?raw=true)**
+
 ## 品牌标识更正
 
 第 9 页按用户确认的第二张图，完整展示 **JRC＋Alphatron Marine＋Authorized distributor** 组合标识。Iridium LT-3100 单独保留经销商类别。

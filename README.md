@@ -1,19 +1,9 @@
-<!-- latest-direct-cover-review -->
-# 五个封面 · 直接看图
+<!-- approved-cover01 -->
+# 封面已确定：01 · 海洋极简
 
-本次重新导出五张高清封面，并提供可逐页查看的 PDF 和可编辑 PPT，使用新上传的透明 JC Logo。
+采用已确认的第 1 款封面，使用透明 JC Logo，已应用到两套 31 页完整公司介绍。
 
-**[直接查看全部五张封面](./cover-direct/README.md)** · **[逐页查看 PDF](./cover-direct/JC_Group_5_Covers.pdf)** · **[下载可编辑 PPT](./cover-direct/JC_Group_5_Covers.pptx?raw=true)**
-
-| 编号 | 设计 | 高清单张图片 |
-| --- | --- | --- |
-| 01 | 海洋极简 | [直接打开](./cover-direct/01_Atlantic_Minimal.jpg) |
-| 02 | 精密科技 | [直接打开](./cover-direct/02_Precision.jpg) |
-| 03 | 暮色深蓝 | [直接打开](./cover-direct/03_Dusk_Signature.jpg) |
-| 04 | 杂志排版 | [直接打开](./cover-direct/04_Editorial.jpg) |
-| 05 | 品牌紫色 | [直接打开](./cover-direct/05_Coastal_Brand.jpg) |
-
-[透明 JC Logo](./cover-direct/JC_Logo_Transparent.png?raw=true)
+[查看已确定的封面](./full-content-update/Approved_Cover_01.jpg) · [此前的五个封面方案](./cover-direct/README.md)
 
 ---
 
@@ -27,11 +17,9 @@
 | 3 · 白色杂志风 | [下载完整 PPT](./full-content-update/03_Editorial_Full_Content.pptx?raw=true) | [打开全部31页](./full-content-update/03_Editorial_Full_Content.pdf) |
 | 5 · 品牌红紫风 | [下载完整 PPT](./full-content-update/05_Signature_Full_Content.pptx?raw=true) | [打开全部31页](./full-content-update/05_Signature_Full_Content.pdf) |
 
-**[下载两套31页完整版合集](./full-content-update/JC_Group_FULL_31pages_03_05.zip?raw=true)**：两份完整 PPT、两份完整 PDF 和说明文件，不含选页预览。
+封面已采用用户确认的第 1 款「海洋极简」，使用新上传的透明 JC Logo；两套均为完整 31 页，其余 30 页保持原样。
 
-新版封面：两套均换为深蓝海面上的完整船舶航拍照片，保留中间向右的浅色渐变与右侧资料排版。本次只换封面主图，每套仍为完整 31 页。
-
-![最新封面对比（仅封面图片）](./full-content-update/New_Covers_Comparison.jpg)
+![已确定的第 1 款封面](./full-content-update/Approved_Cover_01.jpg)
 
 品牌页已按用户确认的第二张图更正：JRC 与 Alphatron Marine 使用完整的 **Authorized distributor** 组合标识。
 
